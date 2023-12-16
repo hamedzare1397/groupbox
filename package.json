@@ -1,6 +1,6 @@
 {
   "name": "vuetify-groupbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "group-box can be used instead of checkbox or radio fields.",
   "main": "groupbox.vue",
   "scripts": {
