@@ -1,0 +1,28 @@
+{
+  "name": "vuetify-groupbox",
+  "version": "1.0.0",
+  "description": "group-box can be used instead of checkbox or radio fields.",
+  "main": "groupbox.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamedzare1397/groupbox.git"
+  },
+  "keywords": [
+    "groupbox",
+    "radio",
+    "checkbox"
+  ],
+  "author": "Hamed Zare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamedzare1397/groupbox/issues"
+  },
+  "homepage": "https://github.com/hamedzare1397/groupbox#readme",
+  "dependencies": {
+    "vuetify":"^3.4.7",
+    "vue":"^3.3.11"
+  }
+}

@@ -59,13 +59,13 @@ $ cd groupbox
 To install and set up the library, run:
 
 ```sh
-$ npm install -S hz/groupbox
+$ npm install -S vuetify-groupbox
 ```
 
 Or if you prefer using Yarn:
 
 ```sh
-$ yarn add --dev hz/groupbox
+$ yarn add --dev vuetify-groupbox
 ```
 
 
